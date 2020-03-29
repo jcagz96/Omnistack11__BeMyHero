@@ -43,3 +43,10 @@ REACT_APP_API_URL=http://localhost:3333
 #Inside mobile folder:
 API_URL=http://localhost:3333
 ```
+
+Run tests in backend
+
+```bash
+#Inside backend folder:
+yarn test
+```
