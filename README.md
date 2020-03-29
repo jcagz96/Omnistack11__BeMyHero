@@ -1,4 +1,7 @@
 # Omnistack11__BeMyHero
+![Mobile](https://github.com/jcagz96/Omnistack11__BeMyHero/blob/master/mockups/mobile.JPG?raw=true "Mobile")
+
+![Frontend](https://github.com/jcagz96/Omnistack11__BeMyHero/blob/master/mockups/frontend.JPG?raw=true "Mobile")
 
 
 ## Stack
